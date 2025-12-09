@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23788.4" systemVersion="24F74" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="PendingTaskEntity" representedClassName="PendingTaskEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="createdAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="details" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="statusRaw" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="usefulnessRaw" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="UserPortraitEntity" representedClassName="UserPortraitEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="focusAreasData" optional="YES" attributeType="Binary"/>
+        <attribute name="helpfulStrategiesData" optional="YES" attributeType="Binary"/>
+        <attribute name="lastUpdated" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="preferenceWeightsData" optional="YES" attributeType="Binary"/>
+        <attribute name="summary" optional="YES" attributeType="String"/>
+        <attribute name="tasksCompleted" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="tasksSkipped" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="tasksTotalSuggested" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="usefulnessHigh" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="usefulnessLow" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="usefulnessMedium" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+</model>

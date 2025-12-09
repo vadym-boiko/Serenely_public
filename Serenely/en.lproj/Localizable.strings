@@ -1,0 +1,79 @@
+"tasks.title" = "Tasks";
+"tasks.empty_title" = "No tasks";
+"tasks.empty_subtitle" = "The assistant can suggest ideas at the end of the session — but it's optional.";
+"tasks.history.swipe_up" = "Swipe up for history";
+"tasks.history.swipe_down" = "Swipe down to close";
+"tasks.history.title" = "Task history";
+"tasks.history.subtitle" = "Completed and skipped";
+"task.action.done" = "Done";
+"task.action.skip" = "Skip";
+"task.action.delete" = "Delete";
+"task.action.restore" = "Restore";
+
+"access.action.ready" = "Ready to execute";
+"access.swipe_to_activate" = "Swipe to activate";
+
+"chat.input.placeholder" = "Type how you feel…";
+"chat.end" = "End session";
+"chat.generating" = "Generating summary…";
+"chat.welcome" = "Hi! How are you feeling?";
+
+"summary.title" = "Session summary";
+"summary.results" = "Results";
+"summary.tasks_title" = "Task suggestions (optional)";
+"summary.skip" = "Skip";
+"summary.save" = "Save to portrait";
+"summary.generating" = "Generating summary…";
+"summary.preparing_tasks" = "Preparing task suggestions…";
+"summary.no_tasks" = "No task suggestions this time — and that's ok.";
+"summary.what_wrong" = "What was wrong?";
+
+"flags.too_long" = "Too long";
+"flags.inaccurate" = "Inaccurate";
+"flags.too_dry" = "Too dry";
+"flags.preachy" = "Preachy";
+
+"rating.title" = "Rate usefulness";
+"rating.low" = "low";
+"rating.medium" = "medium";
+"rating.high" = "high";
+
+"common.later" = "Later";
+"common.save" = "Save";
+"common.skip" = "Skip";
+"common.add" = "Add";
+"common.cancel" = "Cancel";
+"common.back" = "Back";
+"common.collapse" = "Collapse";
+"common.show_more" = "Show more";
+"common.empty" = "No items yet";
+
+"status.pending" = "Pending";
+"status.done" = "Done";
+
+"app.title" = "Serenely";
+"tab.chat" = "Chat";
+"tab.tasks" = "Tasks";
+"tab.portrait" = "Portrait";
+"menu.language" = "Language";
+
+"portrait.title" = "Portrait";
+"portrait.clear" = "Clear";
+"portrait.clear_confirm_title" = "Clear portrait?";
+"portrait.clear_confirm" = "Clear";
+"portrait.clear_confirm_message" = "This will delete saved summary, focus areas, strategies, weights and stats. This action cannot be undone.";
+"portrait.last_session" = "New in last session";
+"portrait.summary_updated" = "Summary updated";
+"portrait.focuses" = "Focuses:";
+"portrait.strategies" = "Strategies:";
+"portrait.overall" = "Overall portrait";
+"portrait.no_summary" = "No saved summaries yet.";
+"portrait.initial_insufficient" = "Initial session: not enough data yet.";
+"portrait.focus_areas" = "Focus areas";
+"portrait.helpful_strategies" = "Helpful strategies";
+
+"launch.tagline" = "Personal reflection companion";
+
+"error.quota_reached" = "Daily message limit reached. Please try again tomorrow.";
+
+

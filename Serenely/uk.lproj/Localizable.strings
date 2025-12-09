@@ -1,0 +1,79 @@
+"tasks.title" = "Завдання";
+"tasks.empty_title" = "Немає завдань";
+"tasks.empty_subtitle" = "Асистент може запропонувати ідеї в кінці сесії — але це не обовʼязково.";
+"tasks.history.swipe_up" = "Свайпніть вгору для історії";
+"tasks.history.swipe_down" = "Свайпніть вниз щоб закрити";
+"tasks.history.title" = "Історія завдань";
+"tasks.history.subtitle" = "Виконані та пропущені";
+"task.action.done" = "Виконано";
+"task.action.skip" = "Пропустити";
+"task.action.delete" = "Видалити";
+"task.action.restore" = "Повернути";
+
+"access.action.ready" = "Готово до виконання";
+"access.swipe_to_activate" = "Свайпніть для активації";
+
+"chat.input.placeholder" = "Напиши, як ти себе почуваєш…";
+"chat.end" = "Завершити сесію";
+"chat.generating" = "Генерація підсумку…";
+"chat.welcome" = "Привіт! Як ти себе почуваєш?";
+
+"summary.title" = "Підсумок сесії";
+"summary.results" = "Результати";
+"summary.tasks_title" = "Пропозиції завдань (необов'язкові)";
+"summary.skip" = "Пропустити";
+"summary.save" = "Зберегти у портрет";
+"summary.generating" = "Генеруємо підсумок…";
+"summary.preparing_tasks" = "Готуємо пропозиції завдань…";
+"summary.no_tasks" = "На цей раз завдання не запропоновані — це ок.";
+"summary.what_wrong" = "Що саме не так?";
+
+"flags.too_long" = "Задовге";
+"flags.inaccurate" = "Неточне";
+"flags.too_dry" = "Надто сухе";
+"flags.preachy" = "Повчальне";
+
+"rating.title" = "Оцініть корисність";
+"rating.low" = "низька";
+"rating.medium" = "середня";
+"rating.high" = "висока";
+
+"common.later" = "Пізніше";
+"common.save" = "Зберегти";
+"common.skip" = "Пропустити";
+"common.add" = "Додати";
+"common.cancel" = "Відмінити";
+"common.back" = "Назад";
+"common.collapse" = "Згорнути";
+"common.show_more" = "Показати більше";
+"common.empty" = "Поки порожньо";
+
+"status.pending" = "Очікує";
+"status.done" = "Виконано";
+
+"app.title" = "Serenely";
+"tab.chat" = "Чат";
+"tab.tasks" = "Завдання";
+"tab.portrait" = "Портрет";
+"menu.language" = "Мова";
+
+"portrait.title" = "Портрет";
+"portrait.clear" = "Очистити";
+"portrait.clear_confirm_title" = "Очистити портрет?";
+"portrait.clear_confirm" = "Очистити";
+"portrait.clear_confirm_message" = "Це видалить збережене резюме, фокуси, стратегії, ваги та статистику. Дію не можна скасувати.";
+"portrait.last_session" = "Нове за останню сесію";
+"portrait.summary_updated" = "Оновлено підсумок";
+"portrait.focuses" = "Фокуси:";
+"portrait.strategies" = "Стратегії:";
+"portrait.overall" = "Загальний портрет";
+"portrait.no_summary" = "Ще немає збережених підсумків.";
+"portrait.initial_insufficient" = "Початкова сесія: даних мало.";
+"portrait.focus_areas" = "Фокус-області";
+"portrait.helpful_strategies" = "Корисні стратегії";
+
+"launch.tagline" = "Твій помічник для рефлексії";
+
+"error.quota_reached" = "Добіг кінця денний ліміт запитів. Спробуй, будь ласка, завтра.";
+
+
